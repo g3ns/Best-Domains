@@ -35,3 +35,24 @@ Cheap domains where you can get some on a discounted price, but it could be pric
 
 Overall : 2/5
 
+
+### GoDaddy:
+
+They got some good domains  to register but you cou;dn't really do much on there. I wish there was a way to connect it with smtp or a way to uplload the files. Also it is really pricy for the web hosting.
+
+**Domain Registrar**: 3/5
+**Web Hosting**: 2/5
+
+Overall: 2.5/5
+
+
+## Nicenic
+
+They are really bad you couldn't get it connected with cloudflare. Which you can with the other domains registrars. Which the support teams sucks really bad which they don't do much.
+
+**Domain Registrar**: 1/5
+**Web Hosting**:1/5
+
+Overall: 1/5 they are so bad :-(
+
+
